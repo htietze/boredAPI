@@ -1,0 +1,30 @@
+Activity: Learn how to use a french press
+Accessibility: 0.3
+Type: recreational
+Participants: 1
+Price: 0.3
+----------------------------------- 
+Activity: Learn to write with your nondominant hand
+Accessibility: 0.02
+Type: busywork
+Participants: 1
+Price: 0.0
+----------------------------------- 
+Activity: Repaint a room in your house
+Accessibility: 0.4
+Type: recreational
+Participants: 1
+Price: 0.3
+----------------------------------- 
+Activity: Plan a trip to another country
+Accessibility: 0.0
+Type: recreational
+Participants: 1
+Price: 0.0
+----------------------------------- 
+Activity: Learn the Chinese erhu
+Accessibility: 0.4
+Type: music
+Participants: 1
+Price: 0.6
+----------------------------------- 
